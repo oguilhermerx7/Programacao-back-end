@@ -1,0 +1,39 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #9cd1ff;
+  }
+
+  h1 {
+    color: #333;
+    font-size: 30pt;
+    text-align: center;
+  }
+  h2{
+    color: #333;
+    font-size: 30pt;
+    text-align: center;
+  }
+
+  ul {
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 10px;
+  }
+
+  li a {
+    color: #fff;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+    background: linear-gradient(#87CEEB, #3074ab);
+    border-radius: 5px;
+    width: 150px;
+  }
+
+  li a:hover{
+    background: linear-gradient(#68b94d, #092c01);
+  }
+  .links{
+    text-align: center;
+  }
